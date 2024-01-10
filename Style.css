@@ -86,3 +86,20 @@ p a {
   font-weight: 600;
   opacity: 0.25;
 }
+button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#confirmationMessage {
+    margin-top: 20px;
+    font-weight: bold;
+}
